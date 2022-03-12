@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/The-Mandem-Studios/CNet/">
-    <img src="(Icon/btuh.png" width="20%" height="auto">
+    <img src="Icon/btuh.png" width="20%" height="auto">
   </a>
 </div>
 <div align="center"><a href="">YouTube</a>&emsp;<b>•</b>&emsp;<a href="">Discord</a></div>
