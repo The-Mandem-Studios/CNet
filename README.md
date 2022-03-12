@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/The-Mandem-Studios/CNet/">
-    <img src="https://clients6.google.com/static/proxy.html?usegapi=1&amp;jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.fQLVS3SAB_U.O%2Fd%3D1%2Frs%3DAHpOoo9-gtqpJORJvBFDdao_eAhWe8xjHw%2Fm%3D__features__#parent=https%3A%2F%2Fdrive.google.com&amp;rpctoken=607082548" width="20%" height="auto">
+    <img src="https://i.ibb.co/f2D3rtJ/btuh.png" width="20%" height="auto">
   </a>
 </div>
 <div align="center"><a href="">YouTube</a>&emsp;<b>•</b>&emsp;<a href="">Discord</a></div>
