@@ -10,4 +10,4 @@ Cnet is a Networking library Made In C#. It can be used in Unity, Unreal Engine 
 
 Cnet Provides Functionality For Establishing Connections And Sending Data From And To The Client Which Allow For Compleate Customization Or If Your Not To Experianced In Programming You Can Keep It Simple And Use The Basic Functionality!
 
-Cnet is Free To Use And We Accept [donations](https://github.com/sponsors/tom-weiland) !.
+Cnet is Free To Use And We Accept [donations]().
